@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+}
+a {
+  transition: all 0.2s ease-in-out;
+}
+.header .nav__link {
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  font-size: 17px;
+  color: #fff;
+}
+.header .nav__logo {
+  color: #fff;
+}
+.header .nav__link:hover,
+.header .nav__logo:hover {
+  color: #000;
+}
